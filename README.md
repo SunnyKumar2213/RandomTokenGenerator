@@ -26,7 +26,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone https://github.com/SunnyKumar2213/RandomTokenGenerator.git
-    $ cd RandomToken
+    $ cd RandomTokenGenerator
     $ npm install
 ## Running the project
     $ node index.js
